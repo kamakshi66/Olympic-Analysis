@@ -8,6 +8,8 @@ By creating interactive dashboards and visualizations, the project presents data
 
 
 ![image](https://github.com/user-attachments/assets/8ce37a75-be06-4507-b933-49737fd83f1e)
+![image](https://github.com/user-attachments/assets/3de6a130-3adf-4af7-8a94-05026b117b6a)
+
 ![image](https://github.com/user-attachments/assets/4ca9c9cf-f598-4e9f-9bf7-f4ed1b5d7cd8)
 
 
